@@ -41,11 +41,11 @@ an id is used to identify one element whereas a class can be used to identify mo
     20. How do we select classes in CSS?
     . followed by name of class
     21. How do we select a p element with a single class of “human””?
-    .....
+    .human
     22. What is a parent child selector? When would this be useful? 
     the parent child selector selects all elements that are a direct child of the specified element. 
     23. How do you select all links within a div with the class of sidebar?
-    ....
+    .sidebar
     24. What is a pseudo selector?
     selects elements that are in a specific state.
     25. What do we use the change the spacing between lines?
